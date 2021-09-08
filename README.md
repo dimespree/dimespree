@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dimespree
 - 👀 I’m interested in learning front end developement 
-- 🌱 I’m currently learning CSS & Javascript
+- 🌱 I’m currently learning CSS & JavaScript
 - 💞️ I’m looking to collaborate on various projects once I obtain the necessary skills
 - 📫 How to reach me info@dimespree.com
 
